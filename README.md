@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n5b85ne12l0rp3ip?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-promises)
+
 # Домашнее задание к лекции «Promises, async/await»
 
 ## Promises
